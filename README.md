@@ -21,6 +21,15 @@ QQ群：[Strm-CayFlow](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=UzkYjqUct07Udim
 ## 更新日志
 
 <details open>
+  <summary> 2026-09-12</summary>
+  
+- v1.2.0
+- 优化反查标题逻辑
+- 修复某些情况下播放视频失败问题
+- 修复观影订阅页面显示异常问题
+</details>
+
+<details>
   <summary> 2026-09-03</summary>
   
 - v1.1.9
